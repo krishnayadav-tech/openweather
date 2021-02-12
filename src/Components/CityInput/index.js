@@ -16,6 +16,7 @@ const CityInput = (props)=>{
             seterror("city is invalid");
             return;
         }
+        seterror("");
         props.fetchcityweather();
     }
 
