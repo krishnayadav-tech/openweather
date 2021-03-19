@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "read-scripts build"
+    "build": "react-scripts build"
   },
   "browserslist": {
     "production": [
